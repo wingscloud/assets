@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="500px" height="346px" viewBox="0 0 500 346" enable-background="new 0 0 500 346" xml:space="preserve">  <image id="image0" width="500" height="346" x="0" y="0"
-    href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAfQAAAFaCAYAAADowK8UAAAABGdBTUEAALGPC/xhBQAAACBjSFJN
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="500px" height="346px"><svg version="1.1" id="SvgjsSvg1001" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="500px" height="346px" viewBox="0 0 500 346" enable-background="new 0 0 500 346" xml:space="preserve">  <image id="SvgjsImage1000" width="500" height="346" x="0" y="0" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAfQAAAFaCAYAAADowK8UAAAABGdBTUEAALGPC/xhBQAAACBjSFJN
 AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABmJLR0QA/wD/AP+gvaeTAABx
 O0lEQVR42u2deXxkZZW/v+dWJamqm17YFUEWcQFHXBpomu4suIuyN5UKIAIuqOM2o844v3FBHR2d
 GR13RZEdOim6G5BNQSBb07K0bArqoCgiyN7Qqaosde/390clTbpSSSpJVZ1Tyft8Ps7Qncq9z1ud
@@ -514,5 +511,6 @@ sy1eKG0QriLwBgESVbkZ+RsC90C8u8JQtgx0xnu0x++oP1xAd9Sc9jSbA+Ze65EHU7g/KPuLYE+C
 NtgTf6bwYSEeDcV72AP+TsGjXoi/DHvxe1weh6MS/H9GHDNAvWhDowAAACV0RVh0ZGF0ZTpjcmVh
 dGUAMjAyMy0wMS0wOVQwODo0MzozMiswMDowMCeASBIAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjMt
 MDEtMDlUMDg6NDM6MzIrMDA6MDBW3fCuAAAAKHRFWHRkYXRlOnRpbWVzdGFtcAAyMDIzLTAxLTA5
-VDA4OjQzOjMyKzAwOjAwAcjRcQAAAABJRU5ErkJggg==" />
-</svg>
+VDA4OjQzOjMyKzAwOjAwAcjRcQAAAABJRU5ErkJggg=="></image>
+</svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+</style></svg>
