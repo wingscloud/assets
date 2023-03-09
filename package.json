@@ -1,0 +1,29 @@
+{
+  "name": "@wingscloud/assets-monorepo",
+  "version": "0.0.0",
+  "description": "Wings Cloud 物料资源。",
+  "author": "Kaivan Wong <kaivanwong@outlook.com>",
+  "license": "Apache 2.0",
+  "homepage": "https://github.com/wingscloud/ui#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wingscloud/ui.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wingscloud/ui/issues"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
+  },
+  "dependencies": {
+    "@kaivanwong/eslint-config": "^0.13.14",
+    "eslint": "^8.35.0"
+  },
+  "eslintConfig": {
+    "extends": "@kaivanwong"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}

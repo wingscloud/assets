@@ -1,0 +1,28 @@
+{
+  "name": "@wingscloud/assets",
+  "description": "Wings Cloud 物料资源。",
+  "author": "Kaivan Wong <kaivanwong@outlook.com>",
+  "license": "Apache 2.0",
+  "homepage": "https://github.com/wingscloud/ui#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wingscloud/ui.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wingscloud/ui/issues"
+  },
+  "exports": {
+    ".": "./index.mjs",
+    "./*": "./*"
+  },
+  "files": [
+    "ui",
+    "cloud",
+    "logos",
+    "template-shop",
+    "template-wash"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
